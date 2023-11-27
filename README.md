@@ -1,2 +1,2 @@
 # vigilant-system
-E
+print "hello world"
